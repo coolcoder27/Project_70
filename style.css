@@ -1,0 +1,33 @@
+#ssc1{
+    padding-top: 10px;
+}
+.movie_head{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+.movie_head i{
+    float: right;
+}
+.movie_text span{
+    color: #ff7700;
+}
+#ssc2{
+    padding-top: 10px;
+}
+#ssc3, scc4, scc5{
+    padding-top: 10px;
+}
+p{
+font-size: 20;
+}
+#topic{
+    color: darkorange;
+}
+h4{
+    font-size: 20px;
+        
+}
